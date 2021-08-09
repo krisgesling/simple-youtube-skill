@@ -2,7 +2,10 @@
 Plays youtube in your default browser.
 
 ## About
+**This Skill does not work and is not maintained. It is for testing purposes only.**
+
 A super simple youtube player. no bells or whistles included.
+
 
 ## Examples
 * "(find|watch|search|play) {query} on youtube"
